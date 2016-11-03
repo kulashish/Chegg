@@ -1,0 +1,38 @@
+Fred    1900
+2
+John    1925
+3
+Mary    1950
+2
+Jason   1972
+0
+Heather 1975
+2
+Sydney  2002
+0
+Hailey  2005
+0
+John    1951
+1
+Amy     1983
+0
+Fred    1953
+3
+Mark    1977
+0
+Sarah   1979
+1
+Michael 2005
+0
+Adam    1982
+0
+Joan    1927
+2
+Susan   1949
+0
+David   1952
+1
+Fred    1980
+0
+1
+John    Fred
